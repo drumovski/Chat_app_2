@@ -2,7 +2,7 @@ import React from 'react';
 import logo from './logo.svg';
 import socketClient  from "socket.io-client";
 import './App.css';
-const SERVER = "http://127.0.0.1:8080";
+const SERVER = "http://localhost:8080";
 
 function App() {
 

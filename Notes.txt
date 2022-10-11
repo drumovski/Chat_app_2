@@ -1,2 +1,8 @@
 Getting CORS error.
 Follow guide in https://www.stackhawk.com/blog/react-cors-guide-what-it-is-and-how-to-enable-it/
+
+deadend. websockets should not use HTTP requests so shouldn't get CORS errors...
+Try: https://socket.io/docs/v3/handling-cors/
+
+OK, worked. Continue with https://www.stackhawk.com/blog/react-cors-guide-what-it-is-and-how-to-enable-it/
+
